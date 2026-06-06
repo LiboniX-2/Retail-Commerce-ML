@@ -80,7 +80,6 @@ The objective is to bridge the gap between theoretical machine learning concepts
 - Scikit-Learn
 
 ### Deep Learning
-- TensorFlow
 - PyTorch
 
 ### Development Environment
