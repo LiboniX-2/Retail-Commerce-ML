@@ -46,12 +46,6 @@ The objective is to bridge the gap between theoretical machine learning concepts
 - Stock Requirement Prediction
 - Supply Chain Insights
 
-### Recommendation Systems
-- Product Recommendation Engines
-- Personalized Shopping Experiences
-- Collaborative Filtering
-- Content-Based Recommendation Systems
-
 ### Retail Data Analytics
 - Market Basket Analysis
 - Consumer Purchasing Patterns
