@@ -91,7 +91,6 @@ Retail-Commerce-ML/
 ├── Customer Segmentation/
 ├── Sales Forecasting/
 ├── Demand Forecasting/
-├── Recommendation Systems/
 ├── Market Basket Analysis/
 ├── Customer Churn Prediction/
 ├── Inventory Optimization/
