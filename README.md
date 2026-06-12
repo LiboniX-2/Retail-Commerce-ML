@@ -69,6 +69,7 @@ The objective is to bridge the gap between theoretical machine learning concepts
 - NumPy
 - Pandas
 - Matplotlib
+- Seaborn
 
 ### Machine Learning
 - Scikit-Learn
